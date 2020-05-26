@@ -100,7 +100,9 @@ h1{
   text-align: center;
   width: 100%;
   padding: 10px;
+  border-radius: 20px;
 }
+
 
 .fourth-line{
   background-color: #1ABC9C;
