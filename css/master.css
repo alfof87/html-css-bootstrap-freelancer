@@ -26,7 +26,7 @@ h1{
   color: white;
   text-align: center;
 }
-hr{
+.second-line div hr{
   color: white;
   width: 100px;
   display: inline-block;
@@ -50,18 +50,33 @@ hr{
 
 .second-line{
   background-color: #1ABC9C;
-
   height: 400px;
-
 }
+#center{
+  margin-left: 40%;
+}
+.second-line p{
+  text-align: center;
+  color: white;
+}
+
+
+
 .third-line{
-
-  height: 300px;
-
+    height: 100%;
 }
+.third-line h2{
+  text-align: center;
+  color: #2c3e50;
+}
+.third-line img{
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+}
+
 .fourth-line{
   background-color: #1ABC9C;
-
   height: 300px;
 }
 
