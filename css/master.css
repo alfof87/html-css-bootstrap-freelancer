@@ -77,20 +77,39 @@ h1{
 
 .fourth-line{
   background-color: #1ABC9C;
-  height: 300px;
+  height: 100%;
 }
+.fourth-line h2, p{
+  text-align: center;
+  color: white;
+}
+.fourth-line button{
+  margin-left: 45%;
+}
+
 
 .fifth-line{
-
-  height: 300px;
+  height: 100%;
 }
+.fifth-line h2{
+  text-align: center;
+}
+.fifth-line button{
+  background-color: #5cb85c;
+  color: white;
+}
+
+
 .sixth-line{
   background-color: #708090;
-
-  height: 300px;
+  height: 100%;
 }
+i{
+  padding: 10px;
+}
+
+
 .seventh-line{
   background-color: #2c3e50;
-
-  height: 100px;
+  height: 100%;
 }
