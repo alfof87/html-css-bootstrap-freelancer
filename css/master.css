@@ -118,7 +118,9 @@ form{
   height: 100%;
 }
 
-
+.fab{
+  padding: 5px;
+}
 
 .seventh-line{
   background-color: #2c3e50;
